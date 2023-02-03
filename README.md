@@ -1,8 +1,6 @@
 
 # Drone-Detection-Application
 
-This project was developed using the Python-based Django framework.
-
 We have created a custom dataset drones (UAVs)
 and other flying objects like birds, planes and more
 and labeled it. Then, using YOLOv5, we trained a model to identify the above objects and distinguish them from drones.
