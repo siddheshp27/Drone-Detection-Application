@@ -24,7 +24,7 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/FKgkJMC/Screenshot-296.png)
+![App Screenshot](https://i.ibb.co/FKgkJMC/Screenshot-296.png)\n
 ![App Screenshot](https://i.ibb.co/nR4NtCW/Screenshot-297.png)
 
 
