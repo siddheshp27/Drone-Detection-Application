@@ -22,8 +22,9 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/FKgkJMC/Screenshot-296.png)
+![App Screenshot](https://i.ibb.co/NyPHk69/Screenshot-240.png)
 ![App Screenshot](https://i.ibb.co/nR4NtCW/Screenshot-297.png)
+[Test Video](https://drive.google.com/file/d/10FSXCo_WPUi9oxisnirMUYfDV7a1RkRk/view?usp=sharing)
 
 
 
